@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "charisma" | sudo -S echo "" && sudo python press.py
