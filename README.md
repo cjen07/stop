@@ -1,21 +1,7 @@
 # Stop
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `stop` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:stop, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/stop](https://hexdocs.pm/stop).
+elixir v1.5.1
+python v2.7.12
+  keyboard
+  pocketsphinx
 
